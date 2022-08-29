@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 
-global.owner = [543757507056]
+global.owner = [543757507056
   ['5219992095479', '👑 Mystic - Creador 👑', true],
   ['34642467703', '👑 Mystic - Collaborator 1 👑', true],
   ['50499698072', '👑 Mystic - Collaborator 2 👑', true],
